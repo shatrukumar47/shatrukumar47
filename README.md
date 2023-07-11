@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shatrughan Kumar</h1>
+<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" height="300px" />
+
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Shatrughan Kumar</h1>
 <h4 align="center">Passionate Full Stack Web Developer skilled in HTML5, CSS3, and Vanilla JavaScript. Proficient in React.js, Node.js, Express.js, and MongoDB, with a strong foundation in web development. Committed to delivering exceptional web solutions and collaborating effectively within teams.</h3>
 
 🔭 I’m currently pursuing Full Stack Web Development (Full Time) Course at Masai School, Bengaluru.
@@ -23,7 +25,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shatrukumar47&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shatrukumar47&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=shatrukumar47&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
