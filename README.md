@@ -3,13 +3,15 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Shatrughan Kumar</h1>
 <h4 align="center">Passionate Full Stack Web Developer skilled in HTML5, CSS3, and Vanilla JavaScript. Proficient in React.js, Node.js, Express.js, and MongoDB, with a strong foundation in web development. Committed to delivering exceptional web solutions and collaborating effectively within teams.</h3>
 
-🔭 I’m currently pursuing Full Stack Web Development (Full Time) Course at Masai School, Bengaluru.
+<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" align="right" width="400px" />
+
+- 🔭 I’m currently pursuing Full Stack Web Development (Full Time) Course at Masai School, Bengaluru.
 
 - ✉ Gmail :  [shatrukumar47@gmail.com](shatrukumar47@gmail.com)
 
-- 🔗 Portfolio : [https://shatrukumar47.github.io/](https://shatrukumar47.github.io/)
+- 🔗 Portfolio : [Portfolio](https://shatrukumar47.github.io/)
 
-- 📄 Resume : [https://drive.google.com/drive/u/0/folders/1tKI9Jx_IqxiqhufaFzEErHZy0hKHMqm0](https://drive.google.com/drive/u/0/folders/1tKI9Jx_IqxiqhufaFzEErHZy0hKHMqm0)
+- 📄 Resume : [Resume Link](https://drive.google.com/drive/u/0/folders/1tKI9Jx_IqxiqhufaFzEErHZy0hKHMqm0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
