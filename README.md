@@ -9,7 +9,7 @@
 
 - ✉ Gmail :  [shatrukumar47@gmail.com](shatrukumar47@gmail.com)
 
-- 🔗 Portfolio : [Portfolio](https://shatrukumar47.github.io/)
+- 🔗 Portfolio : https://shatrukumar47.github.io/
 
 - 📄 Resume : [Resume Link](https://drive.google.com/drive/u/0/folders/1tKI9Jx_IqxiqhufaFzEErHZy0hKHMqm0)
 
