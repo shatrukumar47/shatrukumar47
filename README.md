@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" height="300px" />
+![Shatrughan Kumar](https://github.com/shatrukumar47/shatrukumar47/assets/123942835/261c5eff-42e9-4c1a-8ad6-5a9e89a405ff)
+
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Shatrughan Kumar</h1>
 <h4 align="center">Passionate Full Stack Web Developer skilled in HTML5, CSS3, and Vanilla JavaScript. Proficient in React.js, Node.js, Express.js, and MongoDB, with a strong foundation in web development. Committed to delivering exceptional web solutions and collaborating effectively within teams.</h3>
